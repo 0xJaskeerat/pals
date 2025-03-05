@@ -1,0 +1,28 @@
+{
+  "name": "pals",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.34",
+    "dotenv": "^16.4.7",
+    "kaibanjs": "^0.14.2",
+    "next": "15.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-markdown": "^10.0.1",
+    "rehype-raw": "^7.0.0",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.1"
+  }
+}
