@@ -83,7 +83,4 @@ export async function GET(request) {
   }
 }
 
-GET();
-
-
 
